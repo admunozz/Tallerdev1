@@ -6,7 +6,7 @@
  </div>
  <div class="col-md-2">
  <a href="ingresov/create" class="pull-right">
- <button class="btn btn-success">Ingreso de Vehiculo</button> </a>
+ <button class="btn btn-success">Ingreso de Vehiculo R1</button> </a>
 </div>
  </div>
  <div class="row">

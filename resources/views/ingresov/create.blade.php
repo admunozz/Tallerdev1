@@ -27,6 +27,7 @@ value="{{date('Y-m-d H:i:s') }}" readonly>
  <option value="" disabled selected>Opcion de Estado:</option>
  <option value="1">Mantenimiento</option>
  <option value="2">Pintura</option>
+ 
  </select>
  </div>
  <div class="form-group">
